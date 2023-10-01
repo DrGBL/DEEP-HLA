@@ -1,6 +1,7 @@
 # Important note
 This is a forked repository from the original DEEP-HLA repository (accessible here: https://github.com/tatsuhikonaito/DEEP-HLA/).
 For now, everything here should be considered experimental. If you wish to use DEEP-HLA, please use the original version.
+For my own personal ease, I have kept the original readme intact below.
 
 
 
